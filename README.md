@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harveen!
-- 👀 I’m interested in applying my knowledge of data analytics from classes to the real world.
+- 👀 I’m interested in taking my knowledge of data analytics from classes to the real world.
 - 🌱 I’m currently learning SQL.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can read in 4 languages that don't use the Latin alphabet.
